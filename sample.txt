@@ -1,3 +1,4 @@
 monkey know git command
 add 修改加入書籤
+commit 記錄索引的狀態
 
