@@ -1,3 +1,4 @@
 monkey know git command
 add 修改加入書籤
+pull 取得遠端數據庫的內容
 
